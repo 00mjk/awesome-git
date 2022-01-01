@@ -106,7 +106,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Gitea](https://gitea.io/) - a community managed fork of Gogs, lightweight code hosting solution written in Go.
 * [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
 * [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
-* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
+* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software ( For github repo:(https://www.github.com/phacility/phabricator))
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 
 ## Workflow
