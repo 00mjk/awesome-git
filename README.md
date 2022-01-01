@@ -96,7 +96,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
 
-* [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
+* [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control. (For github repository: https://www.github.com/sitaramc/gitolite)
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
 * [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
 * [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
@@ -106,7 +106,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Gitea](https://gitea.io/) - a community managed fork of Gogs, lightweight code hosting solution written in Go.
 * [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
 * [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
-* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software ( For github repo:https://www.github.com/phacility/phabricator)
+* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software (For github repo: https://www.github.com/phacility/phabricator)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 
 ## Workflow
