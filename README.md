@@ -152,6 +152,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitforge](https://github.com/nhorman/gitforge) - Utility for manipulating git forges as a git subcommand
 * [forge-cli](https://github.com/remolueoend/forge-cli) - CLI tool for editing and creating issues and merge requests on github, gitlab, and others
 * [ghub](https://github.com/magit/ghub)  - Client library for APIs of various Git forges
+* [gitman](https://github.com/seanpm2001/gitman)  Tool to manage, fetch upstream and modify projects through various git websites.
 - [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ## Extensions
